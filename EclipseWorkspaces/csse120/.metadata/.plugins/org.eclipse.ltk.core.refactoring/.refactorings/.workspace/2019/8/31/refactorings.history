@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;PyDev&apos; to &apos;PyDev Pro&apos;" description="Rename resource &apos;PyDev&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PyDev" name="PyDev Pro" stamp="1564629259926" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;rOBOpROJECT&apos; to &apos;RoboProject&apos;" description="Rename resource &apos;rOBOpROJECT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/rOBOpROJECT" name="RoboProject" stamp="1564636091879" updateReferences="true"/>
+</session>

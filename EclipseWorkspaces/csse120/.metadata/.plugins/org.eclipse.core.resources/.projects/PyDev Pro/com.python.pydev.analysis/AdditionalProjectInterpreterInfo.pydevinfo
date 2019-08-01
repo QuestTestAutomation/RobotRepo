@@ -1,0 +1,19 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\sanumolu\Documents\EclipseWorkspaces\csse120\.metadata\.plugins\org.eclipse.core.resources\.projects\PyDev Pro\com.python.pydev.analysis\v2_indexcache
+Helloworld|1564629824529244000|C:\Users\sanumolu\Documents\EclipseWorkspaces\csse120\PyDev Pro\Helloworld.py
+quickstart|1564630422825915000|C:\Users\sanumolu\Documents\EclipseWorkspaces\csse120\PyDev Pro\quickstart.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=quickstart
+1=C:\Users\sanumolu\Documents\EclipseWorkspaces\csse120\PyDev Pro\quickstart.py
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|main!1^11#5*18@
+sco|1|SCOPES!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
