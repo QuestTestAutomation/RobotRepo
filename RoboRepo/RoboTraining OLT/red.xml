@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="ExceptionLib" path="RoboTraining/Libs/ExceptionLib.py"/>
+    <referencedLibrary type="PYTHON" name="XLLib" path="RoboTraining/Libs/XLLib.py"/>
+    <referencedLibrary type="PYTHON" name="Utillib" path="RoboTraining/Libs/Utillib.py"/>
+    <referencedLibrary type="PYTHON" name="TestRailLibrary" path="RoboTraining/Libs/TestRailLibrary.py"/>
+    <referencedLibrary type="PYTHON" name="Seleniumutil" path="RoboTraining/Libs/Seleniumutil.py"/>
+    <referencedLibrary type="PYTHON" name="InitializeITAF" path="RoboTraining/Libs/InitializeITAF.py"/>
+    <referencedLibrary type="PYTHON" name="Siebelservicelib" path="RoboTraining/Libs/Siebelservicelib.py"/>
+    <referencedLibrary type="PYTHON" name="Sfdclib" path="RoboTraining/Libs/Sfdclib.py"/>
+    <referencedLibrary type="PYTHON" name="SiebelLib" path="RoboTraining/Libs/SiebelLib.py"/>
+    <referencedLibrary type="PYTHON" name="DateTimelib" path="RoboTraining/Libs/DateTimelib.py"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Program Files (x86)/Python37-32/Lib/site-packages/SeleniumLibrary/__init__.py"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>

@@ -1,0 +1,20 @@
+*** Setting ***
+Library    XLLib  WITH NAME  XLLibrary
+
+*** Variable ***
+${file}    /Users/sanumolu/Documents/github/RoboRepo/RoboTraining/Results/Consolidated Patch Testing Results 13Jul2019.xlsx
+${sheetname}    master
+${row}  Convert To Integer    1
+${column}  Convert To Integer   1
+*** Test Cases ***
+Test1
+    Hello World
+    
+*** Keyword ***
+Hello World
+    Log  "Hello World!"
+    Log  ${file}
+    ${getxlvalues}  get xl cell values  ${file}  ${sheetname}  ${row}   ${column}
+    Log  ${getxlvalues}
+    ${getcellvalue}  get xl cell value  ${file}  ${sheetname}  ${row}   ${column}
+    Log  ${getcellvalue}

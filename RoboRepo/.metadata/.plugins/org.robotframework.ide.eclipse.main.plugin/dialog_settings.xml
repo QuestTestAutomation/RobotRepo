@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.robotframework.ide.project.editor.activePage.RoboTraining">
+		<item key="activePage" value="LibrariesProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Scripts/Helloworld.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Scripts/XLFiletest/__init__.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Data Tests/Products.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Products/Product SKUs.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/Commons/Global Setup.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/Approvals/Approvals.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/Common Elements/Cloud Attachments.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/Login/Login Page Locators.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/Login/Login.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/Opportunities/Opportunity Details Locators.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/SFDC Navigation/Search and Open SFDC Objects.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/SFDC POM/SFDC Navigation/Search Locators.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Q2CAAT/Resources/Commons/SFDX.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Libs/Commons/Seleniumutil.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RoboTraining/Libs/Commons/SiebelLib.robot">
+		<item key="activePage" value="red.settings"/>
+	</section>
+</section>

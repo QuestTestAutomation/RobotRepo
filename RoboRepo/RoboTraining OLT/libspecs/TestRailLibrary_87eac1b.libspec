@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="TestRailLibrary" type="library" format="ROBOT" generated="20190816 06:22:58">
+<version>0.1</version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Intercommunication with TestRail</doc>
+<init>
+<arguments>
+<arg>TestRailURL=</arg>
+<arg>user=</arg>
+<arg>APIkey=</arg>
+</arguments>
+<doc>Initialize self.  See help(type(self)) for accurate signature.</doc>
+<tags>
+</tags>
+</init>
+<kw name="Add Result To TestRail Case">
+<arguments>
+<arg>project_name</arg>
+<arg>test_run_name</arg>
+<arg>caseID</arg>
+<arg>status</arg>
+<arg>**kwargs</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Add Result To TestRail Case Run Config">
+<arguments>
+<arg>project_name</arg>
+<arg>plan_name</arg>
+<arg>test_run_name</arg>
+<arg>config</arg>
+<arg>caseID</arg>
+<arg>status</arg>
+<arg>**kwargs</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Add Test Run To Plan With All Cases Configs">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>suite</arg>
+<arg>plan_name</arg>
+<arg>run_name</arg>
+<arg>description</arg>
+<arg>configs</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Add Test Run To Plan With All Cases Configs Set">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>suite</arg>
+<arg>plan_name</arg>
+<arg>run_name</arg>
+<arg>description</arg>
+<arg>configs_set</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Create Test Run With All Cases">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>run_name</arg>
+<arg>description</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Extract CaseID From Robot Tags">
+<arguments>
+<arg>tags</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Case">
+<arguments>
+<arg>caseID</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail ConfigIDs By Names">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>names</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail PlanID">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>plan_name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail PlanRuns">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>plan_name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail Plans">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail ProjectID">
+<arguments>
+<arg>self</arg>
+<arg>name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail ProjectRuns">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail RunID">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>run_name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail RunID By Plan Configs">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>plan_name</arg>
+<arg>run_name</arg>
+<arg>configs</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get TestRail Suite">
+<arguments>
+<arg>self</arg>
+<arg>project_name</arg>
+<arg>name</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Hell">
+<arguments>
+<arg>mon</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Pretty Print Test Comment">
+<arguments>
+<arg>header=EXECUTION INFO</arg>
+<arg>**kwargs</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>

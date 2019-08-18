@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="XLLib" type="library" format="ROBOT" generated="20190816 10:06:01">
+<version></version>
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``XLLib``.</doc>
+<kw name="Add Xl Header Column">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>columnheader</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Copy Xl Workbook">
+<arguments>
+<arg>sourcefile</arg>
+<arg>targetfile</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Create Workbook">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Create Worksheets">
+<arguments>
+<arg>file</arg>
+<arg>sheetnames</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Create Xl Header Lists">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>lists</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Excel Row As Dictionary">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>row</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Table Row As Dictionary">
+<arguments>
+<arg>row</arg>
+<arg>tabledictionary</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Cell Value">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>icolumn</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Cell Value Using Column Header">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>columnheader</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Cell Values">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>icolumn</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get XL Column Count">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Column Index">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>columnvalue</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Column Letter">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>columnvalue</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Header As Tuple">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Xl Row Count">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Load Xl Cell Values Dictionary">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Load Xl Cell Values Testrail Dictionary">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Pri">
+<arguments>
+<arg>mello</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Pri New">
+<arguments>
+<arg>mello</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Print XL Cell Values">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>icolumn</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Set Xl Cell Value">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>icolumn</arg>
+<arg>cellvalue</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Set Xl Cell Value Using Column Header">
+<arguments>
+<arg>file</arg>
+<arg>sheetname</arg>
+<arg>irow</arg>
+<arg>columnheader</arg>
+<arg>cellvalue</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>

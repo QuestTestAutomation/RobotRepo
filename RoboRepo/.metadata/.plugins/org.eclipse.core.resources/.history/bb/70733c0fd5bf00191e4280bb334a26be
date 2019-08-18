@@ -1,0 +1,7 @@
+*** Test Cases ***
+Test1
+    Hello World
+    
+*** Keyword ***
+Hello World
+    Log  "Hello World!"

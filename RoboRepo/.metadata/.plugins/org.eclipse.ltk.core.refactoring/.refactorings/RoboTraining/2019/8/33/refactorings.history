@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Global Setup.robot&apos; to &apos;Commons&apos;&#x0D;&#x0A;- Original project: &apos;RoboTraining&apos;&#x0D;&#x0A;- Destination element: &apos;Commons&apos;&#x0D;&#x0A;- Original element: &apos;Global Setup.robot&apos;" description="Copy file" element1="Q2CAAT/Resources/Commons/Global Setup.robot" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1566020208294" target="/RoboTraining/Libs/Commons" units="0" version="1.0"/>
+</session>

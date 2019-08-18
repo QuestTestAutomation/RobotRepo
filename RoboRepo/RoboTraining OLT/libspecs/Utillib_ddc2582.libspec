@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="Utillib" type="library" format="ROBOT" generated="20190816 06:21:12">
+<version></version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``Utillib``.</doc>
+<kw name="Get Column Letter">
+<arguments>
+<arg>idx</arg>
+</arguments>
+<doc>Convert a column index into a column letter
+(3 -&gt; 'C')</doc>
+<tags>
+</tags>
+</kw>
+<kw name="Load Workbook">
+<arguments>
+<arg>filename</arg>
+<arg>read_only=False</arg>
+<arg>keep_vba=False</arg>
+<arg>data_only=False</arg>
+<arg>keep_links=True</arg>
+</arguments>
+<doc>Open the given filename and return the workbook
+
+:param filename: the path to open or a file-like object
+:type filename: string or a file-like object open in binary mode c.f., :class:`zipfile.ZipFile`
+
+:param read_only: optimised for reading, content cannot be edited
+:type read_only: bool
+
+:param keep_vba: preseve vba content (this does NOT mean you can use it)
+:type keep_vba: bool
+
+:param guess_types: guess cell content type and do not read it from the file
+:type guess_types: bool
+
+:param data_only: controls whether cells with formulae have either the formula (default) or the value stored the last time Excel read the sheet
+:type data_only: bool
+
+:param keep_links: whether links to external workbooks should be preserved. The default is True
+:type keep_links: bool
+
+:rtype: :class:`openpyxl.workbook.Workbook`
+
+.. note::
+
+    When using lazy load, all worksheets will be :class:`openpyxl.worksheet.iter_worksheet.IterableWorksheet`
+    and the returned workbook will be read-only.</doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>
